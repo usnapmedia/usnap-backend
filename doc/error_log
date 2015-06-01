@@ -1,0 +1,15 @@
+[31-Mar-2015 23:09:27 Europe/Berlin] PHP Fatal error:  Class 'mysqli' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:12:30 Europe/Berlin] PHP Fatal error:  Class 'mysql' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:12:31 Europe/Berlin] PHP Fatal error:  Class 'mysql' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:13:42 Europe/Berlin] PHP Warning:  PDO::__construct() expects at most 4 parameters, 5 given in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:13:42 Europe/Berlin] PHP Fatal error:  Call to a member function query() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 24
+[31-Mar-2015 23:14:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 13
+[31-Mar-2015 23:15:44 Europe/Berlin] PHP Fatal error:  Call to undefined method PDOStatement::fetch_object() in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 31
+[31-Mar-2015 23:16:49 Europe/Berlin] PHP Fatal error:  Call to undefined method PDOStatement::fetch_all() in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 31
+[31-Mar-2015 23:16:51 Europe/Berlin] PHP Fatal error:  Call to undefined method PDOStatement::fetch_all() in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 31
+[31-Mar-2015 23:16:55 Europe/Berlin] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 63
+[31-Mar-2015 23:16:56 Europe/Berlin] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 63
+[31-Mar-2015 23:21:11 Europe/Berlin] PHP Fatal error:  Class 'mysqli' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:21:12 Europe/Berlin] PHP Fatal error:  Class 'mysqli' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:21:12 Europe/Berlin] PHP Fatal error:  Class 'mysqli' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12
+[31-Mar-2015 23:21:39 Europe/Berlin] PHP Fatal error:  Class 'mysqli' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/doc/index.php on line 12

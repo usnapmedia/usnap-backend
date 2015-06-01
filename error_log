@@ -1,0 +1,113 @@
+[19-Mar-2015 17:19:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 92
+[19-Mar-2015 17:37:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:37:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:39:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:48:09 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:48:11 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:48:12 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:48:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:48:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:48:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:48:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:50:09 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:50:10 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:50:10 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:50:11 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:51:10 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 12:51:10 America/New_York] PHP Fatal error:  Call to a member function as_array() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 60
+[19-Mar-2015 17:55:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 65
+[19-Mar-2015 17:55:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 65
+[19-Mar-2015 17:55:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 65
+[19-Mar-2015 17:55:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 65
+[19-Mar-2015 17:55:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 65
+[31-Mar-2015 23:44:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare connectPost() (previously declared in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php:125) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 160
+[31-Mar-2015 23:44:55 Europe/Berlin] PHP Fatal error:  Cannot redeclare connectPost() (previously declared in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php:125) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 160
+[08-Apr-2015 22:39:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 239
+[08-Apr-2015 23:05:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 180
+[08-Apr-2015 23:06:56 Europe/Berlin] PHP Fatal error:  Class 'FacebookSession' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 5
+[08-Apr-2015 23:07:59 Europe/Berlin] PHP Fatal error:  Class 'FacebookSession' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 8
+[08-Apr-2015 23:08:00 Europe/Berlin] PHP Fatal error:  Class 'FacebookSession' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 8
+[08-Apr-2015 17:11:31 America/New_York] PHP Fatal error:  Class 'FacebookSession' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 185
+[08-Apr-2015 17:11:36 America/New_York] PHP Fatal error:  Class 'CURLFile' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 195
+[08-Apr-2015 17:12:23 America/New_York] PHP Fatal error:  Class 'CURLFile' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 195
+[08-Apr-2015 17:13:10 America/New_York] PHP Fatal error:  Class 'CURLFile' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 195
+[08-Apr-2015 17:14:36 America/New_York] PHP Fatal error:  Class 'CURLFile' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 195
+[09-Apr-2015 03:13:37 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:13:39 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:14:03 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:14:04 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:14:04 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:14:04 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:14:28 America/New_York] PHP Fatal error:  Cannot access empty property in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 189
+[09-Apr-2015 03:33:28 America/New_York] PHP Fatal error:  Cannot access protected property Facebook\GraphObject::$backingData in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 248
+[11-Apr-2015 23:58:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 123
+[12-Apr-2015 00:08:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 364
+[13-Apr-2015 20:18:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected '{' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 218
+[13-Apr-2015 21:08:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected '{' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 96
+[17-Apr-2015 01:15:42 America/New_York] PHP Fatal error:  Call to a member function format() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 97
+[17-Apr-2015 01:15:53 America/New_York] PHP Fatal error:  Call to a member function format() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 97
+[17-Apr-2015 07:20:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 107
+[17-Apr-2015 07:20:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 107
+[17-Apr-2015 07:37:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 321
+[17-Apr-2015 07:37:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 321
+[17-Apr-2015 07:37:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 321
+[17-Apr-2015 07:40:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 352
+[17-Apr-2015 08:02:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected '{' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 369
+[17-Apr-2015 08:02:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 387
+[21-Apr-2015 18:25:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 471
+[21-Apr-2015 18:25:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 471
+[21-Apr-2015 18:25:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 471
+[21-Apr-2015 18:25:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 471
+[21-Apr-2015 18:25:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 471
+[21-Apr-2015 18:25:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 471
+[23-Apr-2015 19:36:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'TWEET' (T_STRING) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 434
+[23-Apr-2015 19:36:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'TWEET' (T_STRING) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 434
+[23-Apr-2015 20:01:51 Europe/Berlin] PHP Fatal error:  Cannot redeclare postToTw() (previously declared in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php:445) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 452
+[23-Apr-2015 22:14:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 658
+[23-Apr-2015 22:14:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 658
+[23-Apr-2015 22:15:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 658
+[23-Apr-2015 22:15:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 658
+[23-Apr-2015 22:15:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 658
+[28-Apr-2015 11:52:11 America/New_York] PHP Fatal error:  Call to a member function set() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 364
+[28-Apr-2015 11:53:05 America/New_York] PHP Fatal error:  Call to a member function set() on a non-object in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 364
+[28-Apr-2015 17:51:20 America/New_York] PHP Fatal error:  Class 'Google_PlusService' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 422
+[28-Apr-2015 17:51:21 America/New_York] PHP Fatal error:  Class 'Google_PlusService' not found in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 422
+[28-Apr-2015 23:56:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:56:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:56:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:56:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:56:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:57:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:57:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:57:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:57:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[28-Apr-2015 23:57:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$ticket' (T_VARIABLE) in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 426
+[06-May-2015 12:32:09 America/New_York] PHP Fatal error:  Function name must be a string in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 582
+[06-May-2015 13:15:42 America/New_York] PHP Fatal error:  Call to undefined function set_user() in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 206
+[06-May-2015 21:28:18 America/New_York] PHP Fatal error:  Call to undefined function set_user() in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 206
+[06-May-2015 21:28:44 America/New_York] PHP Fatal error:  Call to undefined function set_user() in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 206
+[06-May-2015 21:29:05 America/New_York] PHP Fatal error:  Call to undefined function set_user() in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 206
+[06-May-2015 21:30:47 America/New_York] PHP Fatal error:  Call to undefined function set_user() in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 206
+[08-May-2015 18:47:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 232
+[08-May-2015 18:47:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 232
+[08-May-2015 18:47:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 232
+[08-May-2015 18:47:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 233
+[08-May-2015 18:47:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 233
+[08-May-2015 18:47:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 233
+[08-May-2015 18:47:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 233
+[08-May-2015 18:47:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 233
+[21-May-2015 18:30:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 223
+[21-May-2015 18:30:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 223
+[21-May-2015 18:30:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 223
+[21-May-2015 19:46:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 847
+[21-May-2015 19:46:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 847
+[21-May-2015 19:46:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 847
+[21-May-2015 19:47:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 847
+[21-May-2015 19:47:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 847
+[21-May-2015 19:47:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/tanios/public_html/d.tanios.ca/usnap/api/index.php on line 847

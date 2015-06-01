@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Awesome API Template">
+        <meta name="author" content="Awesome API Template">
+    
+        <title>Install</title>
+        
+        <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
+        <link href="css/admin.css" rel="stylesheet">        
+    </head>
+    
+    <!-- Body Start -->
+    <body>
+    	
+    	<!-- Content Wrapper Start -->
+        <div id="content-wrapper">
+        	<h3>Thank you so much for purchasing!</h3>
+        	<p>
+        		Thank you very much for purchasing the API documenting tool from Code Canyon. 
+        		If you have any questions/concerns/updates please feel free to leave a comment or 
+        		email me personally :) <a href="mailto:andrewpuch@gmail.com">andrewpuch@gmail.com</a>. I'm
+        		usually pretty quick at answering emails.
+        	</p>
+			
+			<br />
+			        	
+        	<h3>Instructions On Installation</h3>
+        	<p>1.) Create a database in MySQL/phpmyadmin. Please make sure it is utf8_general_ci collation.</p>
+        	<p>2.) Import the SQL file in sql/documentation.sql in the database you created in step 1.</p>
+        	<p>3.) Edit the file in scripts/config-sample.php with your database credentials and URL. Please make sure there is a trailing / on your URL.</p>
+        	<p>3.) Rename the file in step 3 to scripts/config.php.</p>
+        	<p>You should be all set to hit your documentation page! Simple setup!</p>
+        	
+			<br />
+			
+            <h3>How To Use</h3>
+            <p>
+                When you go to your URL that you created for the application (wherever index.php sits). You will notice an "Admin Area" link at
+                the top of the page. Click that and it will bring you to a simple form to fill out for endpoints or for your own company/personal 
+                information. It's extremely simple. Fill out the information for an endpoint and click "create". Once the endpoint is created
+                you can open the endpoint within the main URL just by selecting it and click "edit" if you ever need to edit or delete it.
+            </p>
+		</div>
+		<!-- Content Wrapper End -->
+		
+		<!-- Import JS Last -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/base.js"></script>
+	</body>
+	<!-- Body End -->
+	
+</html>
